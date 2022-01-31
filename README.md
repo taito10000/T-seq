@@ -5,7 +5,7 @@ Control external midi-synthesizer with iPad sequencer.
 Work in progress. Sequencer works in simulator (f.e. midi out -> Audio Midi Studio / Connect -> Logic Pro )
 GUI is a mess and todo-list is long. 
 
-Done with AudioKit framework.
+Uses AudioKit framework.
 
 ![Seq-002-img](https://user-images.githubusercontent.com/93654870/151774647-28b84572-baa8-4654-861c-ed239b526dfc.jpg)
 
