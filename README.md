@@ -5,7 +5,7 @@ Control external midi-synthesizer with iPad sequencer.
 Work in progress. 
 
 Atm. sequencer works in simulator (f.e. midi out -> Audio Midi Studio / Connect -> Logic Pro )
-GUI is a mess and todo-list is long. v. 0.03 I'll support old iPad which I happen to have, and
+GUI is a mess and todo-list is long. In v. 0.03 I'll support old iPad which I happen to have, and
 will be able to test hardware.
 
 T-seq uses AudioKit framework.
