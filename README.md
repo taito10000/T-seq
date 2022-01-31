@@ -1,5 +1,5 @@
 # T-seq
-Monosynth stepsequencer for iPad v. 0.02
+Monosynth stepsequencer v. 0.02 for iPad 
 
 Control external midi-synthesizer with iPad sequencer. 
 Work in progress. Sequencer works in simulator (f.e. midi out -> Audio Midi Studio / Connect -> Logic Pro )
