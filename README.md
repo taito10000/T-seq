@@ -6,7 +6,7 @@ Work in progress.
 
 Atm. sequencer works in simulator (f.e. midi out -> Audio Midi Studio / Connect -> Logic Pro )
 GUI is a mess and todo-list is long. In v. 0.03 I'll support old iPad which I happen to have, and
-will be able to test hardware.
+will be able to test the hardware.
 
 T-seq uses AudioKit framework.
 
